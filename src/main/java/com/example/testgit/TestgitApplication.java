@@ -27,10 +27,7 @@ public class TestgitApplication {
 //123
 
 // conflict checking
-//abc1-ok
-//abc2-ok
-//abc4
-
+//remote changes
 
 
 
