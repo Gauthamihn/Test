@@ -28,6 +28,7 @@ public class TestgitApplication {
 
 // conflict checking
 //abc1-ok
+//abc2-ok
 
 
 
