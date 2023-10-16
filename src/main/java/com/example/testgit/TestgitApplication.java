@@ -11,6 +11,15 @@ public class TestgitApplication {
 	}
 
 }
-
+//there is no conflict
 
 //main branch check
+
+//creating a branch
+
+
+//main branch
+
+//in new branch
+
+//new branch after main commit
