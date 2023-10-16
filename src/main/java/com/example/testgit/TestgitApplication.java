@@ -23,3 +23,6 @@ public class TestgitApplication {
 //in new branch
 
 //new branch after main commit
+
+
+// conflict checking
